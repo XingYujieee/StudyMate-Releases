@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="StudyMate 工作流：课前、课中、课后">
+<rect width="1200" height="440" rx="20" fill="#FFFFFF"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<rect x="30" y="28" width="348" height="300" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<clipPath id="c1"><rect x="30" y="28" width="348" height="300" rx="16"/></clipPath><rect x="30" y="28" width="348" height="5" fill="#2563EB" clip-path="url(#c1)"/>
+<rect x="54" y="58" width="40" height="40" rx="12" fill="#DBEAFE"/>
+<text x="74" y="85" font-size="18" font-weight="800" fill="#2563EB" text-anchor="middle">1</text>
+<text x="108" y="78" font-size="22" font-weight="700" fill="#0F172A">课前</text>
+<text x="108" y="98" font-size="11" font-weight="600" letter-spacing="2.5" fill="#94A3B8">BEFORE</text>
+<circle cx="62" cy="135" r="4" fill="#2563EB"/>
+<text x="78" y="140" font-size="16" fill="#475569">按周导入课件 PDF</text>
+<circle cx="62" cy="179" r="4" fill="#2563EB"/>
+<text x="78" y="184" font-size="16" fill="#475569">扫描版自动 OCR（本机 Vision）</text>
+<circle cx="62" cy="223" r="4" fill="#2563EB"/>
+<text x="78" y="228" font-size="16" fill="#475569">为每节课指定对应课件</text>
+<path d="M384 178.0 L410 178.0" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M404 172.0 L412 178.0 L404 184.0" fill="none" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="420" y="28" width="348" height="300" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<clipPath id="c2"><rect x="420" y="28" width="348" height="300" rx="16"/></clipPath><rect x="420" y="28" width="348" height="5" fill="#7C3AED" clip-path="url(#c2)"/>
+<rect x="444" y="58" width="40" height="40" rx="12" fill="#EDE9FE"/>
+<text x="464" y="85" font-size="18" font-weight="800" fill="#7C3AED" text-anchor="middle">2</text>
+<text x="498" y="78" font-size="22" font-weight="700" fill="#0F172A">课中</text>
+<text x="498" y="98" font-size="11" font-weight="600" letter-spacing="2.5" fill="#94A3B8">DURING</text>
+<circle cx="452" cy="135" r="4" fill="#7C3AED"/>
+<text x="468" y="140" font-size="16" fill="#475569">录麦克风或网课 / Zoom 系统音频</text>
+<circle cx="452" cy="179" r="4" fill="#7C3AED"/>
+<text x="468" y="184" font-size="16" fill="#475569">本机实时转写，断了能补</text>
+<circle cx="452" cy="223" r="4" fill="#7C3AED"/>
+<text x="468" y="228" font-size="16" fill="#475569">悬浮双语字幕，置顶不抢焦点</text>
+<circle cx="452" cy="267" r="4" fill="#7C3AED"/>
+<text x="468" y="272" font-size="16" fill="#475569">实时要点 + 生词，课上直接问 AI</text>
+<path d="M774 178.0 L800 178.0" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M794 172.0 L802 178.0 L794 184.0" fill="none" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="810" y="28" width="348" height="300" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<clipPath id="c3"><rect x="810" y="28" width="348" height="300" rx="16"/></clipPath><rect x="810" y="28" width="348" height="5" fill="#059669" clip-path="url(#c3)"/>
+<rect x="834" y="58" width="40" height="40" rx="12" fill="#D1FAE5"/>
+<text x="854" y="85" font-size="18" font-weight="800" fill="#059669" text-anchor="middle">3</text>
+<text x="888" y="78" font-size="22" font-weight="700" fill="#0F172A">课后</text>
+<text x="888" y="98" font-size="11" font-weight="600" letter-spacing="2.5" fill="#94A3B8">AFTER</text>
+<circle cx="842" cy="135" r="4" fill="#059669"/>
+<text x="858" y="140" font-size="16" fill="#475569">参考课件术语精校转录</text>
+<circle cx="842" cy="179" r="4" fill="#059669"/>
+<text x="858" y="184" font-size="16" fill="#475569">结构化笔记 → Obsidian</text>
+<circle cx="842" cy="223" r="4" fill="#059669"/>
+<text x="858" y="228" font-size="16" fill="#475569">带出处的问答，引用可点击跳转</text>
+<circle cx="842" cy="267" r="4" fill="#059669"/>
+<text x="858" y="272" font-size="16" fill="#475569">闪卡 / 测验 → Anki，生词本与错题本</text>
+<rect x="30" y="350" width="1140" height="62" rx="14" fill="#F1F5F9" stroke="#E2E8F0"/>
+<circle cx="58" cy="381" r="6" fill="#0F766E"/>
+<text x="74" y="387" font-size="15" fill="#475569"><tspan font-weight="700" fill="#0F766E">留在本机</tspan>　录音 · 转写 · 系统翻译 · OCR · 课程数据库</text>
+<circle cx="630" cy="381" r="6" fill="#6D28D9"/>
+<text x="646" y="387" font-size="15" fill="#475569"><tspan font-weight="700" fill="#6D28D9">用你自己的 key</tspan>　精校 · 笔记 · 问答 · 闪卡</text>
+</g></svg>

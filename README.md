@@ -55,7 +55,8 @@
 
 **需要：** Apple 芯片的 Mac（M1 及以后）· macOS 26 及以上 · 一个模型服务商的 API key（默认 DeepSeek，也支持 OpenAI 兼容接口和 Anthropic）
 
-1. 到 **[Releases](https://github.com/XingYujieee/StudyMate-Releases/releases/latest)** 下载最新的 `StudyMate-x.x-N.zip`，解压后把 `StudyMate.app` 拖进"应用程序"
+1. 到 **[Releases](https://github.com/XingYujieee/StudyMate-Releases/releases/latest)** 下载最新的 `StudyMate-x.x-N.dmg`，双击打开，把 **StudyMate** 拖到 **Applications** 文件夹上
+   <br><sub>下载 `.dmg` 不方便的话，同一页也有 `.zip`：解压后把 `StudyMate.app` 拖进"应用程序"</sub>
 2. 第一次打开会提示"无法验证开发者"，点 **完成**，然后到 **系统设置 → 隐私与安全性** 拉到底部，点 **仍要打开**
 3. 允许麦克风，在设置里粘贴你的 API key，选择 Obsidian vault（不用 Obsidian 可跳过）
 
@@ -66,7 +67,7 @@
 
 ## 更新
 
-下载新版，直接覆盖"应用程序"里的旧版。课程、录音、转录、笔记都不会丢。
+先退出 StudyMate，下载新版 `.dmg`，同样拖到 Applications，提示已存在时选 **替换**。课程、录音、转录、笔记都不会丢。
 
 更新后如果遇到下面的情况：
 
